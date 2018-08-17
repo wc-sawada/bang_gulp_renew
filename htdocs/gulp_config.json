@@ -1,0 +1,10 @@
+{
+  "buildPathScss" : {
+  	"scss": ["scss/**/*.scss","coms/ax/scss/*.scss","coms/edesign/scss/*.scss","coms/md/scss/*.scss","coms/sbi/scss/*.scss","coms/sn/scss/*.scss","coms/sp/scss/*.scss","coms/ss/scss/*.scss","coms/zn/scss/*.scss","coms/zr/scss/*.scss","web/flash/card/backup/0303/test/scss/*.scss","web/flash/scss/*.scss","hojin/hojin-com/hojin-fk/scss/*.scss","hojin/hojin-com/hojin-io/scss/*.scss","gif/xml/scss/*.scss","xmlbang/scss/*.scss","checkbox/nlink/scss/*.scss","checkbox/realestate/scss/*.scss","checkbox/gulliver/scss/*.scss","mobile/smt/scss/**/*.scss","remind/scss/**/*.scss","tool/scss/**/*.scss","web/scss/**/*.scss","mainte/scss/**/*.scss","m/smt/scss/**/*.scss","scss_ph/**/*.scss"],
+  	"dest": ["./css","./coms/ax/css","./coms/edesign/css","./coms/md/css","./coms/sbi/css","./coms/sn/css","./coms/sp/css","./coms/ss/css","./coms/zn/css","./coms/zr/css","./web/flash/card/backup/0303/test/css","./web/flash/css","./hojin/hojin-com/hojin-fk/css","./hojin/hojin-com/hojin-io/css","./gif/xml/css","./xmlbang/css","./checkbox/nlink/css","./checkbox/realestate/css","./checkbox/gulliver/css","./mobile/smt/css","./remind/css","./tool/css","./web/css","./mainte/css","./m/smt/css","./css_ph"]
+  },
+  "buildPathHaml" : {
+  	"haml": "haml/**/*.haml",
+  	"dest":"./"
+  }
+}
