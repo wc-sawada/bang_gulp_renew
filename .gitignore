@@ -1,9 +1,9 @@
 ## node
-node_modules/*
+htdocs/node_modules/*
 
 ## css
-css/*
-coms/css/*
+htdocs/css/*
+htdocs/coms/**/css/*
 
 # Garbage files
 .DS_Store
